@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Title Goes Here</title>
+</head>
+
+<body>
+    <h1>Header 1</h1>
+    <h2>Header 2</h2>
+    <h3>Header 3</h3>
+    <h6>Header 6</h6>
+    <!-- My Paragraphs Below -->
+    <p><strong> Page Content </strong> Goes<br> Here &infin;</p>
+    <p>Paragraph Two</p>
+<ul>
+    <li>Item One</li>
+    <li>Item Two</li>
+    <li>Item Three</li>
+    <li>Item Four</li>
+</ul>
+
+</body>
+
+
+
+
+
+
+</html>
