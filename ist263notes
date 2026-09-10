@@ -4,24 +4,15 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Title Goes Here</title>
+    <title>Week 3 - Links and Images</title>
 </head>
 
 <body>
-    <h1>Header 1</h1>
-    <h2>Header 2</h2>
-    <h3>Header 3</h3>
-    <h6>Header 6</h6>
-    <!-- My Paragraphs Below -->
-    <p><strong> Page Content </strong> Goes<br> Here &infin;</p>
-    <p>Paragraph Two</p>
-<ul>
-    <li>Item One</li>
-    <li>Item Two</li>
-    <li>Item Three</li>
-    <li>Item Four</li>
-</ul>
+    <h1>This is a header</h1>
+    <p><a href="https://syr.edu">Syracuse University</a></p>
+    <p><a href="https://amazon.com">Amazon</a></p>
 
+    <img src="../">
 </body>
 
 
